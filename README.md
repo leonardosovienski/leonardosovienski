@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:000000,70:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automação%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automation+%7C+CI%2FCD+%7C+Cloud;Soundcheck+%7C+Quality+%7C+Observability;Building+systems%2C+not+just+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automação+%7C+CI%2FCD+%7C+Cloud;Qualidade+%7C+Observabilidade+%7C+Confiabilidade;Construindo+sistemas%2C+não+só+código" />
 </p>
 
 <h1 align="center">🚀 Leonardo Sanches</h1>
@@ -14,37 +14,37 @@
 </p>
 
 <p align="center">
-  <i>"Automate everything that is repeatable."</i>
+  <i>Construindo sistemas, não apenas código.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardosovienski&label=Profile%20Views&color=ff0000&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=leonardosovienski&label=Visualizações&color=ff0000&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
   <img src="https://img.shields.io/github/stars/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
 </p>
 
 ---
 
-## 🏆 Impacto em Qualidade & DevOps (Volvo)
+## 🏆 DevOps & Engenharia de Qualidade (Experiência Corporativa)
 
-- 🟢 **Soundcheck & Engenharia de Qualidade**  
-  Evolução de aplicações para níveis avançados de maturidade, com foco em **Level 3 / Gold**, automação de métricas, security scans e quality gates  
+- 🟢 **Engenharia de Qualidade & Soundcheck**  
+  Evolução de aplicações com foco em **quality gates, security scans e automação de métricas**, aumentando a maturidade técnica  
 
-- 📊 **Stay Up To Date – Full Compliance**  
-  Atuação na eliminação de gaps técnicos e evolução contínua de indicadores até estado **fully compliant (all green)**  
+- 📊 **Compliance Técnico & Melhoria Contínua**  
+  Redução de gaps técnicos e evolução constante de indicadores, garantindo aderência a padrões de qualidade e segurança  
 
 - 🌍 **Padrões Globais de Engenharia**  
-  Alinhamento com práticas avançadas de qualidade, confiabilidade e observabilidade adotadas em ambiente corporativo global  
+  Aplicação de práticas de **confiabilidade, observabilidade e qualidade** em ambientes corporativos de escala  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou focado em automação, pipelines e engenharia de software, com interesse especial em construir soluções mais confiáveis, escaláveis e eficientes.
+Atuo com automação, pipelines e engenharia de software, focado em construir sistemas **confiáveis, escaláveis e eficientes**.
 
-Gosto de resolver problemas complexos, melhorar processos e transformar tarefas repetitivas em fluxos automatizados.
+Tenho interesse em resolver problemas complexos e transformar processos manuais em **fluxos automatizados, padronizados e reprodutíveis**.
 
-Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Actions**, **Python** e práticas voltadas a **CI/CD, qualidade e observabilidade**.
+Experiência com **.NET (ASP.NET Core / Razor Pages)**, **Azure DevOps**, **GitHub Actions**, **Python** e práticas de **CI/CD, qualidade e observabilidade**.
 
 ---
 
@@ -52,12 +52,12 @@ Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Ac
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-ff0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-ff0000?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-ff0000?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -66,16 +66,16 @@ Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Ac
 ## 🚀 Destaques
 
 - 🔥 **Garimpo Investimentos**  
-  Plataforma inteligente de análise de criptoativos com IA, scoring e automação de dados  
+  Plataforma de análise de criptoativos com foco em **automação, interpretação e scoring de dados**
 
-- ⚙️ **Pipelines DevOps**  
-  Automação de CI/CD com GitHub Actions e Azure DevOps  
+- ⚙️ **Engenharia de Pipelines DevOps**  
+  Construção e evolução de pipelines CI/CD com foco em **padronização, automação e confiabilidade**
 
 - 📊 **Qualidade & Observabilidade**  
-  Integração com Sonar, Fortify, Soundcheck e métricas  
+  Integração com ferramentas como **Sonar, Fortify, Soundcheck e métricas de qualidade**
 
 - 🧩 **Engenharia de Processos**  
-  Otimização e padronização de fluxos para ambientes escaláveis  
+  Otimização de fluxos e redução de esforço manual em ambientes de desenvolvimento
 
 ---
 
@@ -92,12 +92,12 @@ Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Ac
 
 ---
 
-## 🕹️ Beyond Code
+## 🕹️ Além do código
 
-- 🎮 Strategy & RPG lover  
-- ⚔️ Jogos com progressão, construção e complexidade  
-- 📚 Interesse em tecnologia, automação e aprendizado contínuo  
-- 🚀 Evolução constante a cada projeto  
+- 🎮 Fã de jogos de estratégia e RPG  
+- ⚔️ Interesse por sistemas complexos e progressão  
+- 📚 Foco em tecnologia, automação e aprendizado contínuo  
+- 🚀 Evolução constante através de projetos práticos  
 
 ---
 
