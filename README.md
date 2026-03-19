@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automation+Enthusiast;CI%2FCD+%7C+.NET+%7C+Azure+DevOps+%7C+Python;Building+systems%2C+not+just+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automation+%7C+CI%2FCD+%7C+Cloud;Soundcheck+%7C+Quality+%7C+Observability;Building+systems%2C+not+just+code" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🚀 Leonardo Sanches</h1>
@@ -18,10 +18,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardosovienski&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" alt="followers" />
-  <img src="https://img.shields.io/github/stars/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=leonardosovienski&label=Profile%20Views&color=ff0000&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
+  <img src="https://img.shields.io/github/stars/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
 </p>
+
+---
+
+## 🏆 Impacto em Qualidade & DevOps (Volvo)
+
+- 🟢 **Soundcheck & Engenharia de Qualidade**  
+  Evolução de aplicações para níveis avançados de maturidade, com foco em **Level 3 / Gold**, automação de métricas, security scans e quality gates  
+
+- 📊 **Stay Up To Date – Full Compliance**  
+  Atuação na eliminação de gaps técnicos e evolução contínua de indicadores até estado **fully compliant (all green)**  
+
+- 🌍 **Padrões Globais de Engenharia**  
+  Alinhamento com práticas avançadas de qualidade, confiabilidade e observabilidade adotadas em ambiente corporativo global  
 
 ---
 
@@ -53,28 +66,28 @@ Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Ac
 ## 🚀 Destaques
 
 - 🔥 **Garimpo Investimentos**  
-  Sistema inteligente de análise de criptoativos com IA, scoring, interpretação e automação de dados.
+  Plataforma inteligente de análise de criptoativos com IA, scoring e automação de dados  
 
 - ⚙️ **Pipelines DevOps**  
-  Implementação e ajuste de fluxos CI/CD com GitHub Actions e Azure DevOps.
+  Automação de CI/CD com GitHub Actions e Azure DevOps  
 
 - 📊 **Qualidade & Observabilidade**  
-  Integração com métricas, quality gates, Sonar, Fortify, Soundcheck e monitoramento contínuo.
+  Integração com Sonar, Fortify, Soundcheck e métricas  
 
 - 🧩 **Engenharia de Processos**  
-  Foco em melhorar produtividade, padronização e confiabilidade em ambientes de desenvolvimento.
+  Otimização e padronização de fluxos para ambientes escaláveis  
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=8B0000"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8B0000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardosovienski&theme=highcontrast&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=8B0000" />
+  <img src="https://streak-stats.demolab.com?user=leonardosovienski&theme=highcontrast&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF0000" />
 </p>
 
 ---
@@ -82,9 +95,9 @@ Atualmente trabalho com tecnologias como **.NET**, **Azure DevOps**, **GitHub Ac
 ## 🕹️ Beyond Code
 
 - 🎮 Strategy & RPG lover  
-- ⚔️ Curto jogos com progressão, construção e complexidade  
-- 📚 Interesso por tecnologia, automação e aprendizado contínuo  
-- 🚀 Sempre tentando evoluir um pouco mais a cada projeto
+- ⚔️ Jogos com progressão, construção e complexidade  
+- 📚 Interesse em tecnologia, automação e aprendizado contínuo  
+- 🚀 Evolução constante a cada projeto  
 
 ---
 
