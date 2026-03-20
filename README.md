@@ -28,7 +28,7 @@
 ## 🏆 DevOps, DevSecOps & Engineering Quality
 
 - 🟢 **CI/CD & Automation**  
-  Development and evolution of delivery pipelines with focus on **standardization, reliability, automation and reproducibility**
+  Development and evolution of delivery pipelines with focus on **standardization, automation, reproducibility and reliability**
 
 - 🔐 **DevSecOps & Quality Gates**  
   Integration of **SonarQube, Fortify, Sonatype Nexus IQ** and engineering controls to strengthen **security, quality and governance**
@@ -37,7 +37,7 @@
   Continuous improvement of applications and workflows through **Backstage, Soundcheck, observability and technical compliance metrics**
 
 - 🌍 **Modern Engineering Standards**  
-  Application of practices focused on **reliability, traceability, quality, maintainability and continuous improvement**
+  Application of practices focused on **maintainability, traceability, reliability, engineering quality and continuous improvement**
 
 ---
 
@@ -47,9 +47,9 @@ I work with **DevOps, automation and software engineering**, focused on building
 
 My experience includes **Azure DevOps**, **GitHub Actions**, **.NET (ASP.NET Core / Razor Pages)**, **Python**, and practices related to **CI/CD, DevSecOps, observability and engineering quality**.
 
-I enjoy turning manual processes into **standardized, automated and repeatable workflows**, helping improve team efficiency and engineering maturity.
+I enjoy turning manual processes into **standardized, automated and repeatable workflows**, reducing operational effort and helping improve technical maturity across development environments.
 
-I’m also always looking to **stay up to date** with modern tools, best practices and engineering standards.
+I’m always looking to **stay up to date** with modern tools, best practices and engineering standards.
 
 ---
 
@@ -84,13 +84,13 @@ I’m also always looking to **stay up to date** with modern tools, best practic
 ## 🚀 Highlights
 
 - ⚙️ **CI/CD Engineering**  
-  Automated delivery pipelines focused on **standardization, reliability and maintainability**
+  Automated delivery pipelines focused on **standardization, maintainability and reliability**
 
 - 🔐 **DevSecOps & Governance**  
-  Integration of **SonarQube, Fortify, Sonatype Nexus IQ** and engineering controls to reduce risk and improve delivery quality
+  Integration of **SonarQube, Fortify, Sonatype Nexus IQ** and engineering controls to improve delivery quality and reduce technical risk
 
 - 📊 **Backstage & Soundcheck**  
-  Work around **engineering metrics, technical compliance and maturity improvement**
+  Work around **engineering metrics, compliance visibility and maturity improvement**
 
 - 🧩 **Process Automation**  
   Reduction of manual effort through automation, reusable workflows and better delivery practices
@@ -103,13 +103,23 @@ I’m also always looking to **stay up to date** with modern tools, best practic
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=8&exclude_repo=teste-git,site,ludo,LotoFacil&hide=c,cpp,java" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leonardosovienski&theme=highcontrast&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF0000" />
 </p>
+
+---
+
+## 🧠 Engineering Mindset
+
+- 🔄 Continuous improvement over one-time fixes  
+- 🛡️ Quality and security built into delivery pipelines  
+- 📏 Standards, repeatability and maintainability first  
+- 📚 Constant learning and adaptation to modern engineering practices  
+- 🚀 Automation as a way to scale quality and reliability  
 
 ---
 
