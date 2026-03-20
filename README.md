@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:000000,70:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automação%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:000000,70:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automação+%7C+CI%2FCD+%7C+Cloud;Qualidade+%7C+Observabilidade+%7C+Confiabilidade;Construindo+sistemas%2C+não+só+código" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=980&lines=DevOps+Intern+%40+Volvo;CI%2FCD+%7C+DevSecOps+%7C+Automation;SonarQube+%7C+Fortify+%7C+Sonatype+%7C+Soundcheck;Observability+%7C+Reliability+%7C+Engineering+Standards;Always+learning.+Always+improving.+Always+shipping+better" />
 </p>
 
 <h1 align="center">🚀 Leonardo Sanches</h1>
 
 <p align="center">
   <b>DevOps Intern @ Volvo</b> <br/>
-  Automação • CI/CD • Cloud • Observabilidade • Engenharia de Software
+  Automation • CI/CD • DevSecOps • Observability • Engineering Quality
 </p>
 
 <p align="center">
-  <i>Construindo sistemas, não apenas código.</i>
+  <i>Automating delivery, enforcing quality, and continuously improving engineering workflows.</i>
 </p>
 
 <p align="center">
@@ -25,26 +25,41 @@
 
 ---
 
-## 🏆 DevOps & Engenharia de Qualidade (Experiência Corporativa)
+## 🏆 DevOps, DevSecOps & Engineering Quality
 
-- 🟢 **Engenharia de Qualidade & Soundcheck**  
-  Evolução de aplicações com foco em **quality gates, security scans e automação de métricas**, aumentando a maturidade técnica  
+- 🟢 **CI/CD & Automation**  
+  Development and evolution of delivery pipelines with focus on **standardization, reliability, automation and reproducibility**
 
-- 📊 **Compliance Técnico & Melhoria Contínua**  
-  Redução de gaps técnicos e evolução constante de indicadores, garantindo aderência a padrões de qualidade e segurança  
+- 🔐 **DevSecOps & Quality Gates**  
+  Integration of **SonarQube, Fortify, Sonatype Nexus IQ** and engineering controls to strengthen **security, quality and governance**
 
-- 🌍 **Padrões Globais de Engenharia**  
-  Aplicação de práticas de **confiabilidade, observabilidade e qualidade** em ambientes corporativos de escala  
+- 📊 **Engineering Maturity & Soundcheck**  
+  Continuous improvement of applications and workflows through **Backstage, Soundcheck, observability and technical compliance metrics**
+
+- 🌍 **Modern Engineering Standards**  
+  Application of practices focused on **reliability, traceability, quality, maintainability and continuous improvement**
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Atuo com automação, pipelines e engenharia de software, focado em construir sistemas **confiáveis, escaláveis e eficientes**.
+I work with **DevOps, automation and software engineering**, focused on building delivery flows that are **reliable, scalable, secure and efficient**.
 
-Tenho interesse em resolver problemas complexos e transformar processos manuais em **fluxos automatizados, padronizados e reprodutíveis**.
+My experience includes **Azure DevOps**, **GitHub Actions**, **.NET (ASP.NET Core / Razor Pages)**, **Python**, and practices related to **CI/CD, DevSecOps, observability and engineering quality**.
 
-Experiência com **.NET (ASP.NET Core / Razor Pages)**, **Azure DevOps**, **GitHub Actions**, **Python** e práticas de **CI/CD, qualidade e observabilidade**.
+I enjoy turning manual processes into **standardized, automated and repeatable workflows**, helping improve team efficiency and engineering maturity.
+
+I’m also always looking to **stay up to date** with modern tools, best practices and engineering standards.
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Evolving **CI/CD pipelines** and delivery workflows  
+- 🔐 Strengthening **DevSecOps** with security and quality tooling  
+- 📈 Improving **engineering maturity** through metrics and standards  
+- 👀 Expanding knowledge in **observability, reliability and platform quality**  
+- 📚 Staying up to date with modern tools, patterns and best practices  
 
 ---
 
@@ -57,25 +72,31 @@ Experiência com **.NET (ASP.NET Core / Razor Pages)**, **Azure DevOps**, **GitH
   <img src="https://img.shields.io/badge/GitHub%20Actions-ff0000?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sonatype-ff0000?style=for-the-badge&logo=sonatype&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backstage-000000?style=for-the-badge&logo=backstage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-ff0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Destaques
+## 🚀 Highlights
+
+- ⚙️ **CI/CD Engineering**  
+  Automated delivery pipelines focused on **standardization, reliability and maintainability**
+
+- 🔐 **DevSecOps & Governance**  
+  Integration of **SonarQube, Fortify, Sonatype Nexus IQ** and engineering controls to reduce risk and improve delivery quality
+
+- 📊 **Backstage & Soundcheck**  
+  Work around **engineering metrics, technical compliance and maturity improvement**
+
+- 🧩 **Process Automation**  
+  Reduction of manual effort through automation, reusable workflows and better delivery practices
 
 - 🔥 **Garimpo Investimentos**  
-  Plataforma de análise de criptoativos com foco em **automação, interpretação e scoring de dados**
-
-- ⚙️ **Engenharia de Pipelines DevOps**  
-  Construção e evolução de pipelines CI/CD com foco em **padronização, automação e confiabilidade**
-
-- 📊 **Qualidade & Observabilidade**  
-  Integração com ferramentas como **Sonar, Fortify, Soundcheck e métricas de qualidade**
-
-- 🧩 **Engenharia de Processos**  
-  Otimização de fluxos e redução de esforço manual em ambientes de desenvolvimento
+  Personal project focused on **data automation, analysis and scoring pipelines**
 
 ---
 
@@ -92,16 +113,16 @@ Experiência com **.NET (ASP.NET Core / Razor Pages)**, **Azure DevOps**, **GitH
 
 ---
 
-## 🕹️ Além do código
+## 🕹️ Beyond Code
 
-- 🎮 Fã de jogos de estratégia e RPG  
-- ⚔️ Interesse por sistemas complexos e progressão  
-- 📚 Foco em tecnologia, automação e aprendizado contínuo  
-- 🚀 Evolução constante através de projetos práticos  
+- 🎮 Strategy and RPG enthusiast  
+- ⚔️ Interested in complex systems and progression mechanics  
+- 📚 Focused on technology, automation and continuous learning  
+- 🚀 Always improving through hands-on projects  
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/leonardosovienski">
@@ -114,7 +135,7 @@ Experiência com **.NET (ASP.NET Core / Razor Pages)**, **Azure DevOps**, **GitH
 
 ---
 
-## 🔥 Filosofia
+## 🔥 Philosophy
 
 ```txt
-Build. Automate. Improve. Repeat.
+Build. Automate. Secure. Measure. Improve. Repeat.
