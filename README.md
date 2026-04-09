@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20DevOps%20%26%20CI%2FCD%20%40%20Volvo&descAlignY=58&descSize=18)](https://github.com/leonardosovienski)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=200&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45)](https://github.com/leonardosovienski)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=.NET+Developer+%7C+DevOps+%26+CI%2FCD+%40+Volvo;Pipelines+%7C+Quality+Gates+%7C+Observability;SonarQube+%7C+Nexus+IQ+%7C+Backstage+Soundcheck;Building+systems%2C+not+just+code)](https://github.com/leonardosovienski)
 
@@ -58,8 +58,8 @@ Atuo na **Volvo** conectando desenvolvimento, pipelines, observabilidade e compl
 
 ## 📈 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false)](https://github.com/leonardosovienski)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false)](https://github.com/leonardosovienski)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)](https://github.com/leonardosovienski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000)](https://github.com/leonardosovienski)
 
 ---
 
