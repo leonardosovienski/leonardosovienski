@@ -1,100 +1,71 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18"/>
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=230&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20DevOps%20%26%20CI%2FCD%20%40%20Volvo&descAlignY=58&descSize=18)](https://github.com/leonardosovienski)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=DevOps+Intern+%40+Volvo;Automation+%7C+CI%2FCD+%7C+Cloud;Soundcheck+%7C+Quality+%7C+Observability;Building+systems%2C+not+just+code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardosovienski&label=Profile%20Views&color=ff0000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
-  <img src="https://img.shields.io/github/stars/leonardosovienski?style=for-the-badge&color=000000&labelColor=ff0000" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=.NET+Developer+%7C+DevOps+%26+CI%2FCD+%40+Volvo;Pipelines+%7C+Quality+Gates+%7C+Observability;SonarQube+%7C+Nexus+IQ+%7C+Backstage+Soundcheck;Building+systems%2C+not+just+code)](https://github.com/leonardosovienski)
 
 ---
 
-## 🏆 Impacto em Qualidade & DevOps (Volvo)
+## 🧠 About Me
 
-<p align="left">
-  • 🟢 <b>Soundcheck & Engenharia de Qualidade:</b> Evolução de aplicações para níveis avançados de maturidade (Level 3 / Gold), automação de métricas e quality gates.<br/>
-  • 📊 <b>Stay Up To Date – Full Compliance:</b> Eliminação de gaps técnicos e evolução de indicadores até o estado <i>fully compliant</i>.<br/>
-  • 🌍 <b>Padrões Globais:</b> Alinhamento com práticas de confiabilidade e observabilidade em ambiente corporativo global.
-</p>
+Desenvolvedor **C# / .NET** com foco em **DevOps, CI/CD, automação e qualidade de software**.  
+Atuo na **Volvo** conectando desenvolvimento, pipelines, observabilidade e compliance técnico — garantindo entregas mais confiáveis, seguras e alinhadas aos padrões globais.
+
+---
+
+## ⚡ Highlights
+
+- CI/CD com **GitHub Actions** e **Azure DevOps** usando templates compartilhados (`devsecops-shared-*`)
+- Integração de **SonarQube** (SAST), **Nexus IQ** (SCA) e configuração de quality gates e branch policies
+- **Soundcheck / Backstage compliance** — automação de checks e evolução de aplicações até Level 3
+- Automação de scripts e análise de dados com **Python**
+- APIs e aplicações com **.NET 9**, Razor Pages e Entity Framework
 
 ---
 
 ## ⚔️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET_9-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razor_Pages-ff0000?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-ff0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+![.NET](https://img.shields.io/badge/.NET_9-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-ff0000?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-ff0000?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Foco
+## 🏆 Impacto @ Volvo
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔥 Garimpo Investimentos</h3>
-      <p>Plataforma inteligente de análise de criptoativos com IA, scoring e automação de dados.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_IA-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Pipelines DevOps</h3>
-      <p>Automação de CI/CD com GitHub Actions e Azure DevOps focada em escalabilidade.</p>
-      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Área | Evidência técnica |
+|------|-------------------|
+| 📊 **Soundcheck / Quality Gates** | Automação de checks, correção de gaps e evolução de aplicações para Level 3 no Backstage Soundcheck |
+| 🔄 **CI/CD Pipelines** | Estruturação e manutenção de pipelines com `devsecops-shared-github` e `devsecops-shared-azuredevops` — build, test, artifact e deploy por ambiente |
+| 🔐 **DevSecOps** | Integração de SonarQube (SAST), Nexus IQ (SCA) e configuração de quality gates e branch policies |
+| 🌍 **Stay Up To Date** | Identificação e resolução de gaps técnicos em dependências, cobertura de testes e métricas de observabilidade |
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Stack | Status |
+|---------|-----------|-------|--------|
+| ⚙️ **DevOps Pipelines & Quality** | Estruturação e melhoria de pipelines com foco em qualidade, compliance e automação | GitHub Actions, Azure DevOps, SonarQube | 🟢 Ativo |
+| 💰 **Garimpo Investimentos** | Plataforma de análise inteligente de investimentos com automação e interpretação de dados | Python, automação, IA | 🔨 WIP |
+| 🌱 **GestaoAmbiental.Api** | API em .NET voltada para gestão e organização de dados ambientais | C#, .NET | 🔨 WIP |
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=leonardosovienski&theme=highcontrast&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF0000" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false)](https://github.com/leonardosovienski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false)](https://github.com/leonardosovienski)
 
 ---
 
-## 🕹️ Beyond Code
+## 🌐 Conecte-se
 
-<p align="center">
-  🎮 Strategy & RPG lover • ⚔️ Progressão e Complexidade • 🚀 Evolução Constante
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-sanches-sovienski-85b545303)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardosovienski)
 
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/leonardosovienski">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://br.linkedin.com/in/leonardo-sanches-sovienski-85b545303">
-    <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <code>Build. Automate. Improve. Repeat.</code>
-</p>
+`Build. Automate. Improve. Repeat.`
