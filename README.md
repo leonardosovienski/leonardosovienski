@@ -1,71 +1,159 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=200&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45)](https://github.com/leonardosovienski)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=210&section=header&text=Leonardo%20Sanches&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DevSecOps%20%7C%20.NET%20%7C%20Automation&descAlignY=66&descSize=18)](https://github.com/leonardosovienski)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=.NET+Developer+%7C+DevOps+%26+CI%2FCD+%40+Volvo;Pipelines+%7C+Quality+Gates+%7C+Observability;SonarQube+%7C+Nexus+IQ+%7C+Backstage+Soundcheck;Building+systems%2C+not+just+code)](https://github.com/leonardosovienski)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2600&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Building+reliable%2C+testable+and+auditable+systems;CI%2FCD+%7C+DevSecOps+%7C+Software+Quality;Python+automation+%7C+C%23+and+.NET;Architecture+before+complexity" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## 🧠 About Me
-
-Desenvolvedor **C# / .NET** com foco em **DevOps, CI/CD, automação e qualidade de software**.  
-Atuo na **Volvo** conectando desenvolvimento, pipelines, observabilidade e compliance técnico — garantindo entregas mais confiáveis, seguras e alinhadas aos padrões globais.
-
----
-
-## ⚡ Highlights
-
-- CI/CD com **GitHub Actions** e **Azure DevOps** usando templates compartilhados (`devsecops-shared-*`)
-- Integração de **SonarQube** (SAST), **Nexus IQ** (SCA) e configuração de quality gates e branch policies
-- **Soundcheck / Backstage compliance** — automação de checks e evolução de aplicações até Level 3
-- Automação de scripts e análise de dados com **Python**
-- APIs e aplicações com **.NET 9**, Razor Pages e Entity Framework
+<p align="center">
+  <a href="https://br.linkedin.com/in/leonardo-sanches-sovienski-85b545303"><img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/leonardosovienski"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## ⚔️ Tech Stack
+## About me
 
-![.NET](https://img.shields.io/badge/.NET_9-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-ff0000?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-ff0000?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+I am a **DevSecOps and .NET developer** focused on automation, CI/CD, software quality and dependable delivery.
+
+I currently work at **Volvo Group**, supporting engineering practices around pipelines, quality gates, security and observability. In my public projects, I apply the same engineering mindset to backend systems, developer tooling, AI-assisted automation and predictive research.
+
+My main principle is simple:
+
+> **Build systems that are understandable, testable and honest about their limits.**
 
 ---
 
-## 🏆 Impacto @ Volvo
+## What I work with
 
-| Área | Evidência técnica |
-|------|-------------------|
-| 📊 **Soundcheck / Quality Gates** | Automação de checks, correção de gaps e evolução de aplicações para Level 3 no Backstage Soundcheck |
-| 🔄 **CI/CD Pipelines** | Estruturação e manutenção de pipelines com `devsecops-shared-github` e `devsecops-shared-azuredevops` — build, test, artifact e deploy por ambiente |
-| 🔐 **DevSecOps** | Integração de SonarQube (SAST), Nexus IQ (SCA) e configuração de quality gates e branch policies |
-| 🌍 **Stay Up To Date** | Identificação e resolução de gaps técnicos em dependências, cobertura de testes e métricas de observabilidade |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Software Engineering
+
+- C#, .NET and Python
+- FastAPI, Razor Pages and REST APIs
+- SQLAlchemy, Entity Framework and SQLite
+- Domain rules, contracts and modular architecture
+- Unit, integration and regression testing
+
+</td>
+<td valign="top" width="50%">
+
+### DevOps & Quality
+
+- GitHub Actions and Azure DevOps
+- CI/CD pipelines and release automation
+- SonarQube, SCA and quality gates
+- Docker and reproducible environments
+- Logging, observability and operational runbooks
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-ff0000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-ff0000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-ff0000?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Projetos
+## Featured projects
 
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| ⚙️ **DevOps Pipelines & Quality** | Estruturação e melhoria de pipelines com foco em qualidade, compliance e automação | GitHub Actions, Azure DevOps, SonarQube | 🟢 Ativo |
-| 💰 **Garimpo Investimentos** | Plataforma de análise inteligente de investimentos com automação e interpretação de dados | Python, automação, IA | 🔨 WIP |
-| 🌱 **GestaoAmbiental.Api** | API em .NET voltada para gestão e organização de dados ambientais | C#, .NET | 🔨 WIP |
+### [Predictor Ecosystem](https://github.com/leonardosovienski/ecosystem-predictor)
+
+A multi-repository platform for predictive experimentation and operation, with a shared scientific library, operational tooling and independent domain projects.
+
+`Python` `Architecture` `Testing` `Automation` `Scientific governance`
+
+- Central architecture and handoff documentation
+- Shared contracts, measurement and operational tooling
+- Independent football, esports, finance and crypto domains
+- Explicit experiment lifecycle, post-mortems and reproducibility rules
+
+### [Predictor Core](https://github.com/leonardosovienski/core-predictor)
+
+An installable Python library that provides reusable scientific contracts, data primitives, measurement utilities and compatibility policies for predictor projects.
+
+`Python 3.13` `Packaging` `API design` `Versioning` `pytest`
+
+### [AI Job Screening Agent](https://github.com/leonardosovienski/automatizacao-curriculo)
+
+A CLI that gathers, validates and ranks job opportunities while generating CV material backed by evidence from the candidate profile.
+
+`Python` `LLMs` `APIs` `Caching` `Circuit breaker` `Privacy`
+
+- Deterministic filters before AI evaluation
+- Structured data takes precedence over generated text
+- Deduplication, source fallback, cache and rate control
+- Privacy markers and evidence validation for generated CV claims
+
+### [Velour](https://github.com/leonardosovienski/Velour)
+
+A management system for a premium beauty salon, covering appointments, clients, professionals, loyalty, referrals, inventory, dashboards and reports.
+
+`FastAPI` `SQLAlchemy` `JWT` `RBAC` `React` `Integration tests`
+
+### [World Cup Predictor](https://github.com/leonardosovienski/wc-predictor)
+
+A local probabilistic football research system with data ingestion, ratings, market comparison, simulation, backtesting and documented scientific post-mortems.
+
+`Python` `SQLite` `Statistics` `Backtesting` `Monte Carlo`
 
 ---
 
-## 📈 GitHub Analytics
+## Engineering approach
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)](https://github.com/leonardosovienski)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000)](https://github.com/leonardosovienski)
+```text
+Understand the problem
+        ↓
+Define contracts and evidence
+        ↓
+Automate the repeatable path
+        ↓
+Test failure modes, not only success
+        ↓
+Measure the result honestly
+        ↓
+Document decisions and limitations
+```
+
+I value:
+
+- deterministic rules around AI-generated output;
+- clear boundaries between domain, infrastructure and shared code;
+- automated tests as executable evidence;
+- incident reports and post-mortems without hiding failed hypotheses;
+- documentation that allows another person to continue the work.
 
 ---
 
-## 🌐 Conecte-se
+## Professional focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-sanches-sovienski-85b545303)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardosovienski)
+At Volvo Group, my experience includes CI/CD, DevSecOps, quality gates, dependency security, observability and engineering compliance. Public repositories on this profile are personal work and do not contain or represent proprietary company code.
 
-`Build. Automate. Improve. Repeat.`
+---
+
+## GitHub analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardosovienski&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosovienski&layout=compact&hide_border=false&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Build. Automate. Improve. Repeat.</strong>
+</p>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=110&section=footer)](https://github.com/leonardosovienski)
