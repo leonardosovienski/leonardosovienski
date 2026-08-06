@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo Sanches Sovienski — DevSecOps</title>
+  <desc id="desc">Minimal dark terminal-inspired profile banner</desc>
+
+  <rect width="1200" height="320" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <rect x="0" y="0" width="10" height="320" rx="5" fill="#e53935"/>
+  <circle cx="54" cy="42" r="7" fill="#e53935"/>
+  <circle cx="79" cy="42" r="7" fill="#6e7681"/>
+  <circle cx="104" cy="42" r="7" fill="#30363d"/>
+
+  <text x="48" y="92" fill="#8b949e" font-family="Consolas, Menlo, monospace" font-size="20">leonardo@devsecops:~$ whoami</text>
+  <text x="48" y="154" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Leonardo Sanches Sovienski</text>
+  <rect x="48" y="177" width="520" height="4" rx="2" fill="#e53935"/>
+
+  <text x="48" y="224" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">DevSecOps Intern · CI/CD · Azure · Software Quality</text>
+  <text x="48" y="266" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="19">Reliable delivery through automation, quality and traceability.</text>
+
+  <g transform="translate(1010 82)" fill="none" stroke="#e53935" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M0 28h55l18 18h62"/>
+    <path d="M0 82h38l20-20h77"/>
+    <circle cx="0" cy="28" r="7" fill="#e53935"/>
+    <circle cx="0" cy="82" r="7" fill="#e53935"/>
+    <circle cx="135" cy="46" r="7" fill="#e53935"/>
+    <circle cx="135" cy="62" r="7" fill="#e53935"/>
+  </g>
+</svg>
