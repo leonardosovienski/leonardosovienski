@@ -1,13 +1,11 @@
 <div align="center">
 
-# Leonardo Sanches Sovienski
+<img src="./assets/profile-header.svg" width="100%" alt="Leonardo Sanches Sovienski — DevSecOps profile banner" />
 
-### DevSecOps Intern · CI/CD · Azure · Software Quality · Automation
+<br />
 
-Early-career DevSecOps professional focused on reliable, secure and traceable software delivery.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Sanches%20Sovienski-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/)
-[![GitHub](https://img.shields.io/badge/GitHub-leonardosovienski-181717?logo=github&logoColor=white)](https://github.com/leonardosovienski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/leonardosovienski?tab=repositories)
 
 </div>
 
