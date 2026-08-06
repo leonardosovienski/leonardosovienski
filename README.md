@@ -26,15 +26,19 @@ Atuo na **Volvo Group** com práticas de engenharia relacionadas a pipelines, qu
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-ff0000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-ff0000?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-ff0000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-ff0000?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SonarQube-ff0000?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-ff0000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 </p>
 
-- **Engenharia:** C#, .NET, Python, FastAPI, APIs REST, SQLAlchemy, Entity Framework e SQLite.
+- **Back-end:** C#, .NET, ASP.NET Core, FastAPI, APIs REST, SQLAlchemy e Entity Framework Core.
+- **Dados:** SQL, SQLite e modelagem de dados orientada a regras de negócio.
 - **DevOps:** GitHub Actions, Azure DevOps, pipelines, releases, Docker e ambientes reproduzíveis.
 - **Qualidade e segurança:** testes unitários e de integração, SonarQube, SCA, quality gates e observabilidade.
 - **Arquitetura:** contratos claros, separação de responsabilidades, versionamento, runbooks e post-mortems.
@@ -71,11 +75,10 @@ Sistema de gestão para salão de beleza com clientes, profissionais, agendament
 
 `FastAPI` `SQLAlchemy` `JWT` `RBAC` `React` `Testes de integração`
 
-### [World Cup Predictor](https://github.com/leonardosovienski/wc-predictor)
-
-Sistema local de pesquisa probabilística para futebol, com ingestão de dados, ratings, comparação com mercado, simulação, backtest e post-mortem científico documentado.
-
-`Python` `SQLite` `Estatística` `Backtesting` `Monte Carlo`
+- regras de negócio para agenda, estoque, fidelidade e indicações;
+- autenticação, autorização por perfil e endpoints protegidos;
+- testes unitários e de integração para fluxos críticos;
+- arquitetura modular entre modelos, schemas, serviços e routers.
 
 ---
 
@@ -84,10 +87,16 @@ Sistema local de pesquisa probabilística para futebol, com ingestão de dados, 
 Na **Volvo Group**, trabalho com:
 
 - CI/CD em GitHub Actions e Azure DevOps;
-- integração de quality e security gates;
+- integração de quality gates e security gates;
 - automação, observabilidade e evolução de compliance técnico.
 
 Os repositórios públicos deste perfil são projetos pessoais e não contêm nem representam código proprietário da empresa.
+
+---
+
+## Critério de portfólio
+
+Mantenho em destaque apenas projetos que demonstram resolução de problemas reais, arquitetura, automação e testes. Repositórios acadêmicos, experimentais ou históricos permanecem como registro de evolução, sem competir com os projetos principais.
 
 ---
 
