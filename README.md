@@ -84,19 +84,16 @@ Sistema de gestão para salão de beleza com clientes, profissionais, agendament
 
 ## Experiência profissional
 
-Na **Volvo Group**, trabalho com:
+Na **Volvo Group**, atuo na evolução da confiabilidade e da maturidade DevSecOps de aplicações:
 
-- CI/CD em GitHub Actions e Azure DevOps;
-- integração de quality gates e security gates;
-- automação, observabilidade e evolução de compliance técnico.
+- estruturação, manutenção e diagnóstico de pipelines CI/CD em GitHub Actions e Azure DevOps;
+- integração de SonarQube, SCA, quality gates e security gates;
+- investigação de falhas silenciosas entre pipelines, catálogo de serviços, plataformas de qualidade e configurações de ambiente;
+- observabilidade em Azure com Log Analytics, Diagnostic Settings e controle de acesso;
+- suporte e modernização de fluxos YAML e pipelines legados, com foco em risco, rastreabilidade e continuidade operacional;
+- produção de documentação técnica, runbooks e padrões reutilizáveis para troubleshooting e melhoria contínua.
 
 Os repositórios públicos deste perfil são projetos pessoais e não contêm nem representam código proprietário da empresa.
-
----
-
-## Critério de portfólio
-
-Mantenho em destaque apenas projetos que demonstram resolução de problemas reais, arquitetura, automação e testes. Repositórios acadêmicos, experimentais ou históricos permanecem como registro de evolução, sem competir com os projetos principais.
 
 ---
 
