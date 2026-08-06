@@ -6,8 +6,8 @@
 
 Early-career DevSecOps professional focused on reliable, secure and traceable software delivery.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Sanches%20Sovienski-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/)
-[![GitHub](https://img.shields.io/badge/GitHub-leonardosovienski-181717?logo=github\&logoColor=white)](https://github.com/leonardosovienski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Sanches%20Sovienski-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/)
+[![GitHub](https://img.shields.io/badge/GitHub-leonardosovienski-181717?logo=github&logoColor=white)](https://github.com/leonardosovienski)
 
 </div>
 
