@@ -12,9 +12,9 @@
 
   <text x="48" y="92" fill="#8b949e" font-family="Consolas, Menlo, monospace" font-size="20">leonardo@devsecops:~$ whoami</text>
   <text x="48" y="154" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Leonardo Sanches Sovienski</text>
-  <rect x="48" y="177" width="520" height="4" rx="2" fill="#e53935"/>
+  <rect x="48" y="177" width="650" height="4" rx="2" fill="#e53935"/>
 
-  <text x="48" y="224" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">DevSecOps Intern · CI/CD · Azure · Software Quality</text>
+  <text x="48" y="224" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">DevSecOps Intern · CI/CD · Platform Engineering · Azure · Software Quality</text>
   <text x="48" y="266" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="19">Reliable delivery through automation, quality and traceability.</text>
 
   <g transform="translate(1010 82)" fill="none" stroke="#e53935" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
