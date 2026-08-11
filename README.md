@@ -99,9 +99,9 @@ The application includes authentication, role-based access control, scheduling, 
 
 ### [Predictor Core](https://github.com/leonardosovienski/core-predictor)
 
-Shared contracts and reusable measurement components for independent prediction projects.
+Undergraduate thesis (TCC) in Information Systems and the shared methodological core for independent prediction projects.
 
-The repository focuses on typed contracts, validation, versioning, testing and reproducibility across multiple domains.
+The repository focuses on typed contracts, reusable measurement components, validation, versioning, testing and reproducibility across multiple domains.
 
 **Technologies and practices**
 
