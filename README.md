@@ -94,8 +94,8 @@ The implementation repositories are private to protect ongoing research. The pub
 <details>
 <summary>🌎 Em português</summary>
 
-Estudante de Sistemas de Informação na UNIFACEAR (conclusão prevista em dez/2027), em Curitiba. Ex-estagiário de DevOps na Volvo Group IT, onde era o único DevOps do time e cuidava das entregas de ponta a ponta. Aberto a vagas de estágio ou júnior em DevSecOps, Platform Engineering, Cloud e CI/CD, e a parcerias de pesquisa. Contato: leonardo.sovienski@gmail.com
+Estudante de Sistemas de Informação na UNIFACEAR (conclusão prevista em dez/2027), em Curitiba. Ex-estagiário de DevOps na Volvo Group IT, onde atuava como principal ponto de contato de DevOps do time, trabalhando nas entregas de ponta a ponta. Aberto a vagas de estágio ou júnior em DevSecOps, Platform Engineering, Cloud e CI/CD, e a parcerias de pesquisa. Contato: leonardo.sovienski@gmail.com
 
 </details>
 
-<p align="center"><b>Reliable delivery through automation, quality and traceability.</b></p>
+<p align="center"><b>Reliable systems through automation, evidence and traceability.</b></p>
