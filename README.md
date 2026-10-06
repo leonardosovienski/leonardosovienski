@@ -61,15 +61,34 @@ Explicit contracts, traceability, reproducibility and documented limitations.
 
 ## Featured projects
 
-### [Predictive Engineering Ecosystem](https://github.com/leonardosovienski/ecosystem-predictor)
+### [Prediction Research Programme — Public Evidence Pack](https://github.com/leonardosovienski/ecosystem-predictor)
 
-Personal multi-repository engineering environment focused on reusable contracts, operational tooling, automated testing and explicit experiment governance.
+A one-person research programme (2026) that built prediction systems in three
+domains (football, equities, crypto), found that its real problems were problems
+of *evaluation*, and responded by building evidence discipline: pre-registration,
+verifiable temporal integrity, protocol-based qualification with hash-identified
+attestations, and a research agent that proposes experiments but never gains
+authority. Implementation stays private; the repository publishes evidence.
 
-The project separates shared components, operational infrastructure and domain-specific applications. Its main engineering focus is reproducibility, traceability, modular design and honest documentation of limitations.
+**What is verifiable there**
 
-**Technologies and practices**
+* dozens of hypotheses judged against pre-registered criteria, **zero approved for capital**;
+* six qualification attestations with zero critical findings, identified by SHA-256;
+* a joint test of the three real domains driven by the research agent: 58/58, after documented iterations (47/57, 56/58, 57/58);
+* fifteen adversarial point-in-time attacks repelled with zero leakage; 81 negative-control executions;
+* 29 registered football trials: 1 confirmed (forecast quality only), 6 refuted, 6 inconclusive;
+* an internal adversarial audit that broke the "a third party can verify this" thesis on the science side and was answered in the next release;
+* retractions, a removed architecture, and a page of limitations written before anyone else had to find them.
 
-`Python` · `Automation` · `Testing` · `Modular Design` · `Reliability` · `Documentation`
+**Open question seeking funding:** can a research agent use evidence to change
+what it investigates without that evidence becoming a route to more authority?
+Containment is built and tested; the comparative experiment is proposed, not run.
+
+The shared methodological core of this programme was developed as my
+undergraduate thesis (Information Systems); the operational runner (locks,
+heartbeats, provenance, secret redaction) and the domain systems remain private.
+
+`Python` · `Pre-registration` · `Temporal integrity` · `Reproducibility` · `Evidence`
 
 ---
 
@@ -97,29 +116,6 @@ The application includes authentication, role-based access control, scheduling, 
 
 ---
 
-### [Predictor Core](https://github.com/leonardosovienski/core-predictor)
-
-Undergraduate thesis (TCC) in Information Systems and the shared methodological core for independent prediction projects.
-
-The repository focuses on typed contracts, reusable measurement components, validation, versioning, testing and reproducibility across multiple domains.
-
-**Technologies and practices**
-
-`Python` · `Contracts` · `Testing` · `Versioning` · `Data Validation` · `Reproducibility`
-
----
-
-### [Predictor Tools](https://github.com/leonardosovienski/tools-predictor)
-
-Operational tooling for local runners, locks, heartbeats, timeouts, manifests, provenance, secret redaction and vendor audits.
-
-The project demonstrates automation, failure handling, operational controls and technical traceability.
-
-**Technologies and practices**
-
-`Python` · `DevOps` · `Automation` · `Reliability` · `Security` · `Auditing`
-
----
 
 ## Current direction
 
