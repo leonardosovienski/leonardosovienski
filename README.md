@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Leonardo Sanches Sovienski — DevSecOps and Platform Engineering">
+  <img src="assets/profile-header.svg" alt="Leonardo Sanches Sovienski — DevSecOps, Platform Engineering and Research">
 </p>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 ## Hi, I'm Leo — DevSecOps, Platform Engineering & Independent Research
 
-Information Systems student at UNIFACEAR (expected Dec 2027), based in Curitiba, Brazil. Former DevOps Intern at Volvo Group IT, where I was the only DevOps engineer on my team and owned delivery end to end, from requirements to production.
+Information Systems student at UNIFACEAR (expected Dec 2027), based in Curitiba, Brazil. Former DevOps Intern at Volvo Group IT, where I served as the team's dedicated DevOps point of contact, working across delivery from requirements and CI/CD to deployment and production troubleshooting.
 
 I build delivery systems people can trust: pipelines as code, no hardcoded secrets, idempotent automation, build once and deploy the same artifact, and claims backed by evidence.
 
 🟢 **Open to:** internship or junior roles in DevSecOps, Platform Engineering, Cloud and CI/CD · research collaborations and fellowships
 
-📍 Curitiba, PR · on-site, hybrid or remote · open to relocation · available during the day
+📍 Curitiba, PR · on-site, hybrid or remote · open to relocation
 
 🗣️ Portuguese (native) · English (advanced, TOEIC 860)
 
@@ -25,7 +25,7 @@ I build delivery systems people can trust: pipelines as code, no hardcoded secre
 
 **DevOps Intern — Volvo Group IT** · Sep 2025 – Sep 2026
 
-* Sole DevOps engineer on the team, handling demands end to end
+* Primary DevOps point of contact within the team, handling delivery demands end to end
 * CI/CD pipelines with Azure DevOps and GitHub Actions for .NET applications
 * Quality and security gates with SonarQube, Fortify and Sonatype Nexus IQ
 * Azure deployments (App Service, Functions) using Key Vault and Entra ID
@@ -41,27 +41,27 @@ I build delivery systems people can trust: pipelines as code, no hardcoded secre
 
 ### Public — code available
 
-**[CV Registration System](https://github.com/leonardosovienski/curriculos-ciee)** · `React` · `ASP.NET Core` · `SQL Server`
+**[CV Registration System](https://github.com/leonardosovienski/curriculos-ciee)** · `React` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Docker` · `GitHub Actions`
 
-Full-stack application built as a technical challenge: résumé registration with a React front end, ASP.NET Core API and SQL Server.
-
-**[Velour](https://github.com/leonardosovienski/Velour)** · `FastAPI` · `React` · `TypeScript` · `SQLAlchemy` · `JWT` · `pytest`
-
-Academic salon management system with authentication, role-based access control, scheduling, loyalty, inventory, dashboards and automated tests.
+Full-stack résumé registration system with PDF parsing, backend validation, ASP.NET Core, React, EF Core and SQL Server. Includes automated API/integration tests, Dockerized local infrastructure and GitHub Actions CI.
 
 **[Job Screening and CV Automation](https://github.com/leonardosovienski/automatizacao-curriculo)** · `Python` · `Pydantic` · `LLM APIs`
 
 CLI that collects, validates, deduplicates and ranks job postings, combining deterministic rules with LLM output that is checked against source evidence. Includes caching, retries, circuit breakers and privacy controls.
 
+**[Velour](https://github.com/leonardosovienski/Velour)** · `FastAPI` · `React` · `TypeScript` · `SQLAlchemy` · `JWT` · `pytest`
+
+Academic salon management system with authentication, role-based access control, scheduling, loyalty, inventory, dashboards and automated tests.
+
 ### Research — private code, public evidence
 
 **[Prediction Research Programme — Public Evidence Pack](https://github.com/leonardosovienski/ecosystem-predictor)** · `Python` · `Pre-registration` · `Temporal integrity` · `Reproducibility`
 
-Public evidence of a multi-repository research programme that built prediction systems in three domains, found that its real problems were problems of evaluation, and responded with evidence discipline: pre-registered hypotheses, hash-identified qualification attestations, adversarial point-in-time tests, documented negative results and retractions, and a page of limitations. The environment uses shared versioned packages pinned by hash, CI on every active repository and explicit governance that separates "supported by evidence" from "profitable"; several hypotheses were closed as refuted and documented as such. Includes my undergraduate thesis core (shared methodological library).
+Public evidence pack for an independent multi-repository research programme spanning football, equities and crypto. The programme evolved from prediction systems into research on evaluation reliability, using pre-registration, temporal-integrity tests, qualification attestations, documented negative results and explicit limitations. Several hypotheses were refuted and closed rather than promoted as successful results. Includes the methodological core of my undergraduate thesis.
 
 **CAIN — Auditable AI-assisted research**
 
-Independent research project on AI-assisted research that is auditable, verifiable and reproducible, keeping experimentation, evidence and decisions separate. The agent proposes experiments but never gains authority over evaluation, data or budget; containment is built and tested in integration with the three domains above. Working local prototype; the open scientific question is proposed, not yet run.
+Independent research project on AI-assisted research that is auditable, verifiable and reproducible, keeping experimentation, evidence and decisions separate. The agent proposes experiments but never gains authority over evaluation, data or budget; its authority boundaries are implemented and integration-tested with the three domains above. Working local prototype; the open scientific question is proposed, not yet run.
 
 The implementation repositories are private to protect ongoing research. The public evidence pack above is the entry point; a technical report and a guided code walkthrough are available on request.
 
@@ -77,10 +77,10 @@ The implementation repositories are private to protect ongoing research. The pub
 
 ---
 
-## Education & Certifications
+## Education
 
 * 🎓 B.Sc. in Information Systems — UNIFACEAR (expected Dec 2027)
-* 📚 Currently studying for Microsoft AZ-900
+* 📚 Microsoft Azure Fundamentals (AZ-900) — in preparation
 
 ---
 
