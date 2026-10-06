@@ -1,139 +1,89 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Leonardo Sanches Sovienski — DevSecOps and Platform Engineering">
+</p>
 
-<img src="./assets/profile-header.svg" width="100%" alt="Leonardo Sanches Sovienski — DevSecOps profile banner" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:leonardo.sovienski@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B00020?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<br />
+## Hi, I'm Leo — DevSecOps & Platform Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sanches-sovienski-85b545303/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/leonardosovienski?tab=repositories)
+Information Systems student at UNIFACEAR (expected Dec 2027), based in Curitiba, Brazil. Former DevOps Intern at Volvo Group IT, where I was the only DevOps engineer on my team and owned delivery end to end, from requirements to production.
 
-</div>
+I build delivery systems people can trust: pipelines as code, no hardcoded secrets, idempotent automation, build once and deploy the same artifact, and claims backed by evidence.
+
+🟢 **Open to:** internship or junior roles in DevSecOps, Platform Engineering, Cloud and CI/CD · research collaborations and fellowships
+📍 Curitiba, PR · on-site, hybrid or remote · open to relocation · available during the day
+🗣️ Portuguese (native) · English (advanced, TOEIC 860)
 
 ---
 
-## About me
+## Experience
 
-I work with software delivery practices involving CI/CD, Azure, software quality, security controls, observability and technical troubleshooting.
+**DevOps Intern — Volvo Group IT** · Sep 2025 – Sep 2026
 
-My professional experience includes:
-
-* CI/CD pipelines with Azure DevOps and GitHub Actions;
-* delivery workflows for .NET applications;
-* quality and security controls with SonarQube and Sonatype Nexus IQ;
-* Azure deployments for Web Apps and Functions;
-* observability with Log Analytics and Diagnostic Settings;
-* troubleshooting across pipelines, environments and engineering platforms;
-* technical documentation and reusable runbooks.
-
-Outside professional work, I build personal and academic projects using Python, C#/.NET, FastAPI, REST APIs, SQL and automated testing.
+* Sole DevOps engineer on the team, handling demands end to end
+* CI/CD pipelines with Azure DevOps and GitHub Actions for .NET applications
+* Quality and security gates with SonarQube, Fortify and Sonatype Nexus IQ
+* Azure deployments (App Service, Functions) using Key Vault and Entra ID
+* Observability with Azure Monitor, Application Insights, Log Analytics and Diagnostic Settings
+* Worked with Backstage as the internal developer portal
+* Troubleshooting across pipelines, environments and platforms, documented as reusable runbooks
 
 > My public repositories are personal or academic projects. They do not contain or represent proprietary company code.
 
 ---
 
-## Main areas
+## Projects
 
-### DevSecOps and CI/CD
+### Public — code available
 
-`Azure DevOps` · `GitHub Actions` · `CI/CD` · `YAML` · `SonarQube` · `Nexus IQ`
+**[CV Registration System](https://github.com/leonardosovienski/curriculos-ciee)** · `React` · `ASP.NET Core` · `SQL Server`
+Full-stack application built as a technical challenge: résumé registration with a React front end, ASP.NET Core API and SQL Server.
 
-Pipeline modernization, deployment workflows, quality and security gates, and troubleshooting.
+**[Velour](https://github.com/leonardosovienski/Velour)** · `FastAPI` · `React` · `TypeScript` · `SQLAlchemy` · `JWT` · `pytest`
+Academic salon management system with authentication, role-based access control, scheduling, loyalty, inventory, dashboards and automated tests.
 
-### Azure and observability
+**[Job Screening and CV Automation](https://github.com/leonardosovienski/automatizacao-curriculo)** · `Python` · `Pydantic` · `LLM APIs`
+CLI that collects, validates, deduplicates and ranks job postings, combining deterministic rules with LLM output that is checked against source evidence. Includes caching, retries, circuit breakers and privacy controls.
 
-`Azure App Service` · `Azure Functions` · `Key Vault` · `Log Analytics` · `Diagnostic Settings`
+### Research — private code, public evidence
 
-Application deployment, configuration, health checks and diagnostic visibility.
+**[Prediction Research Programme — Public Evidence Pack](https://github.com/leonardosovienski/ecosystem-predictor)** · `Python` · `Pre-registration` · `Temporal integrity` · `Reproducibility`
+Public evidence of a research programme that built prediction systems in three domains, found that its real problems were problems of evaluation, and responded with evidence discipline: pre-registered hypotheses (dozens judged, zero approved for capital), hash-identified qualification attestations, adversarial point-in-time tests, documented negative results and retractions, and a page of limitations. Includes my undergraduate thesis core (shared methodological library).
 
-### Automation and development
+**CAIN — Auditable AI-assisted research**
+Independent research project on AI-assisted research that is auditable, verifiable and reproducible, keeping experimentation, evidence and decisions separate. The agent proposes experiments but never gains authority over evaluation, data or budget; containment is built and tested in integration with the three domains above. Working local prototype; the open scientific question is proposed, not yet run.
 
-`Python` · `C#` · `.NET` · `FastAPI` · `SQLAlchemy` · `REST APIs` · `SQL`
+**Predictive Engineering Ecosystem** · includes my undergraduate thesis core
+Multi-repository Python environment with shared versioned packages pinned by hash, CI on every active repository and explicit governance that separates "supported by evidence" from "profitable". Several hypotheses were closed as refuted and documented as such.
 
-Automation tools, APIs, business rules, validation and failure handling.
-
-### Engineering practices
-
-`Automated Testing` · `Runbooks` · `Manifests` · `Validation` · `Reliability` · `Documentation`
-
-Explicit contracts, traceability, reproducibility and documented limitations.
-
----
-
-## Featured projects
-
-### [Prediction Research Programme — Public Evidence Pack](https://github.com/leonardosovienski/ecosystem-predictor)
-
-A one-person research programme (2026) that built prediction systems in three
-domains (football, equities, crypto), found that its real problems were problems
-of *evaluation*, and responded by building evidence discipline: pre-registration,
-verifiable temporal integrity, protocol-based qualification with hash-identified
-attestations, and a research agent that proposes experiments but never gains
-authority. Implementation stays private; the repository publishes evidence.
-
-**What is verifiable there**
-
-* dozens of hypotheses judged against pre-registered criteria, **zero approved for capital**;
-* six qualification attestations with zero critical findings, identified by SHA-256;
-* a joint test of the three real domains driven by the research agent: 58/58, after documented iterations (47/57, 56/58, 57/58);
-* fifteen adversarial point-in-time attacks repelled with zero leakage; 81 negative-control executions;
-* 29 registered football trials: 1 confirmed (forecast quality only), 6 refuted, 6 inconclusive;
-* an internal adversarial audit that broke the "a third party can verify this" thesis on the science side and was answered in the next release;
-* retractions, a removed architecture, and a page of limitations written before anyone else had to find them.
-
-**Open question seeking funding:** can a research agent use evidence to change
-what it investigates without that evidence becoming a route to more authority?
-Containment is built and tested; the comparative experiment is proposed, not run.
-
-The shared methodological core of this programme was developed as my
-undergraduate thesis (Information Systems); the operational runner (locks,
-heartbeats, provenance, secret redaction) and the domain systems remain private.
-
-`Python` · `Pre-registration` · `Temporal integrity` · `Reproducibility` · `Evidence`
+The implementation repositories are private to protect ongoing research. The public evidence pack above is the entry point; a technical report and a guided code walkthrough are available on request.
 
 ---
 
-### [Job Screening and CV Automation](https://github.com/leonardosovienski/automatizacao-curriculo)
+## Stack
 
-Python CLI that collects, validates, deduplicates and ranks job postings by combining deterministic rules with evidence-grounded LLM output.
-
-The project includes source precedence, structured data validation, caching, circuit breakers, retries, privacy controls and verification of generated claims against source evidence.
-
-**Technologies and practices**
-
-`Python` · `Pydantic` · `LLM APIs` · `Caching` · `Circuit Breaker` · `Privacy` · `Validation`
+**CI/CD & DevSecOps** — `Azure DevOps` · `GitHub Actions` · `YAML` · `SonarQube` · `Fortify` · `Nexus IQ`
+**Cloud & Observability** — `Azure App Service` · `Azure Functions` · `Key Vault` · `Entra ID` · `Azure Monitor` · `Application Insights` · `Log Analytics`
+**Platform** — `Backstage` · `Docker` · `uv`
+**Development** — `Python` · `C#` · `.NET` · `FastAPI` · `ASP.NET Core` · `React` · `TypeScript` · `SQL`
+**Practices** — `Automated testing` · `Runbooks` · `Contracts` · `Reproducibility` · `Documentation`
 
 ---
 
-### [Velour](https://github.com/leonardosovienski/Velour)
+## Recognition
 
-Academic full-stack salon management system built with FastAPI, Python, SQLAlchemy, React and TypeScript.
+* 🏆 Winner — UNIFACEAR university hackathon
+* 🥇 OBMEP award (Brazilian Mathematics Olympiad for Public Schools)
+* 📚 Currently studying for Microsoft AZ-900
 
-The application includes authentication, role-based access control, scheduling, loyalty, referrals, inventory, dashboards, reports and automated tests.
+<details>
+<summary>🇧🇷 Em português</summary>
 
-**Technologies and practices**
+Estudante de Sistemas de Informação na UNIFACEAR (conclusão prevista em dez/2027), em Curitiba. Ex-estagiário de DevOps na Volvo Group IT, onde era o único DevOps do time e cuidava das entregas de ponta a ponta. Aberto a vagas de estágio ou júnior em DevSecOps, Platform Engineering, Cloud e CI/CD, e a parcerias de pesquisa. Contato: leonardo.sovienski@gmail.com
 
-`FastAPI` · `Python` · `React` · `TypeScript` · `SQLAlchemy` · `JWT` · `RBAC` · `pytest`
+</details>
 
----
-
-
-## Current direction
-
-I am developing toward junior DevSecOps and Platform Engineering roles, with an emphasis on:
-
-* reliable software delivery;
-* CI/CD automation;
-* software quality and security;
-* Azure;
-* observability;
-* internal tooling;
-* developer productivity;
-* technical documentation.
-
----
-
-<div align="center">
-
-### Reliable delivery through automation, quality and traceability.
-
-</div>
+<p align="center"><b>Reliable delivery through automation, quality and traceability.</b></p>
