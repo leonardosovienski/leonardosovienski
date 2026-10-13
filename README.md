@@ -9,29 +9,30 @@
 
 ## Hi, I'm Leo — DevSecOps, Platform Engineering & Independent Research
 
-Information Systems student at UNIFACEAR (expected Dec 2027), based in Curitiba, Brazil. Former DevOps Intern at Volvo Group IT, where I served as the team's dedicated DevOps point of contact, working across delivery from requirements and CI/CD to deployment and production troubleshooting.
+Information Systems student at UNIFACEAR (expected Dec 2027), based in the Curitiba metropolitan area, Brazil. Former DevSecOps Intern at Volvo Group IT, where I was the only DevOps person on my team, handling delivery end to end, from requirements and CI/CD to deployment and production troubleshooting.
 
 I build delivery systems people can trust: pipelines as code, no hardcoded secrets, idempotent automation, build once and deploy the same artifact, and claims backed by evidence.
 
-🟢 **Open to:** internship or junior roles in DevSecOps, Platform Engineering, Cloud and CI/CD · research collaborations and fellowships
+🟢 **Open to:** internship or junior roles in DevSecOps, DevOps, Platform Engineering, Cloud, CI/CD and .NET · research collaborations and fellowships
 
 📍 Curitiba, PR · on-site, hybrid or remote · open to relocation
 
-🗣️ Portuguese (native) · English (advanced, TOEIC 860)
+🗣️ Portuguese (native) · English (advanced, TOEIC 810)
 
 ---
 
 ## Experience
 
-**DevOps Intern — Volvo Group IT** · Sep 2025 – Sep 2026
+**DevSecOps Intern — Volvo Group IT** · Sep 2025 – Sep 2026
 
-* Primary DevOps point of contact within the team, handling delivery demands end to end
-* CI/CD pipelines with Azure DevOps and GitHub Actions for .NET applications
-* Quality and security gates with SonarQube, Fortify and Sonatype Nexus IQ
-* Azure deployments (App Service, Functions) using Key Vault and Entra ID
+* Only DevOps person on the team, handling delivery demands end to end
+* Took 3 internal applications from no maturity level to level 3 in Backstage Soundcheck/QualityCheck, finding and fixing the gaps
+* Designed and implemented a unified CI/CD pipeline used by about 15 .NET applications, with SonarQube and Sonatype Nexus IQ as blocking or report-only gates per branch
+* Built end-to-end CI/CD for a new .NET 10 backend with Azure Functions and an Angular frontend, integrating SonarQube, Fortify, Nexus IQ and JMeter load tests
+* Migrated pipelines from Azure DevOps to GitHub Actions
+* Azure deployments (Web Apps, Functions) across DEV, ACC and PROD with Key Vault, Entra ID, health checks and configuration backups
 * Observability with Azure Monitor, Application Insights, Log Analytics and Diagnostic Settings
-* Worked with Backstage as the internal developer portal
-* Troubleshooting across pipelines, environments and platforms, documented as reusable runbooks
+* Diagnosed silent failures: checks that passed without measuring what they were supposed to, documented as reusable runbooks
 
 > My public repositories are personal or academic projects. They do not contain or represent proprietary company code.
 
@@ -69,10 +70,10 @@ The implementation repositories are private to protect ongoing research. The pub
 
 ## Stack
 
-* **CI/CD & DevSecOps** — `Azure DevOps` · `GitHub Actions` · `YAML` · `SonarQube` · `Fortify` · `Nexus IQ`
-* **Cloud & Observability** — `Azure App Service` · `Azure Functions` · `Key Vault` · `Entra ID` · `Azure Monitor` · `Application Insights` · `Log Analytics`
+* **CI/CD & DevSecOps** — `Azure DevOps` · `GitHub Actions` · `YAML` · `SonarQube` · `Fortify` · `Nexus IQ` · `JMeter`
+* **Cloud & Observability** — `Azure App Service` · `Azure Functions` · `Key Vault` · `Entra ID` · `Azure Monitor` · `Application Insights` · `Log Analytics` · `Terraform`
 * **Platform** — `Backstage` · `Docker` · `uv`
-* **Development** — `Python` · `C#` · `.NET` · `FastAPI` · `ASP.NET Core` · `React` · `TypeScript` · `SQL`
+* **Development** — `Python` · `C#` · `.NET` · `FastAPI` · `ASP.NET Core` · `React` · `TypeScript` · `SQL Server` · `PostgreSQL`
 * **Practices** — `Automated testing` · `Runbooks` · `Contracts` · `Reproducibility` · `Documentation`
 
 ---
@@ -80,21 +81,21 @@ The implementation repositories are private to protect ongoing research. The pub
 ## Education
 
 * 🎓 B.Sc. in Information Systems — UNIFACEAR (expected Dec 2027)
-* 📚 Microsoft Azure Fundamentals (AZ-900) — in preparation
+* 📚 Microsoft Azure Fundamentals (AZ-900) — course completed, certification exam in preparation
 
 ---
 
 ## Recognition
 
-* 🏆 Winner — UNIFACEAR university hackathon
-* 🥇 OBMEP award (Brazilian Mathematics Olympiad for Public Schools)
+* 🏆 Winner — 1st UNIFACEAR Hackathon (2025)
+* 🥈 Silver medal — OBMEP (Brazilian Mathematics Olympiad for Public Schools)
 
 ---
 
 <details>
 <summary>🌎 Em português</summary>
 
-Estudante de Sistemas de Informação na UNIFACEAR (conclusão prevista em dez/2027), em Curitiba. Ex-estagiário de DevOps na Volvo Group IT, onde atuava como principal ponto de contato de DevOps do time, trabalhando nas entregas de ponta a ponta. Aberto a vagas de estágio ou júnior em DevSecOps, Platform Engineering, Cloud e CI/CD, e a parcerias de pesquisa. Contato: leonardo.sovienski@gmail.com
+Estudante de Bacharelado em Sistemas de Informação na UNIFACEAR (conclusão prevista em dez/2027), na região de Curitiba. Ex-estagiário de DevSecOps na Volvo Group IT, onde fui o único profissional de DevOps do time e cuidei das entregas de ponta a ponta. Aberto a vagas de estágio ou júnior em DevSecOps, DevOps, Cloud, CI/CD e .NET, e a parcerias de pesquisa. Contato: leonardo.sovienski@gmail.com
 
 </details>
 
